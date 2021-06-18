@@ -1,0 +1,5 @@
+首先解释一下什么是JSX,是JavaScript的语法扩展，可以让编写像html一样的代码，在JSX中使用的”元素“，不局限于HTML中的元素，可以是任何一个react组件。
+
+react判断一个元素是HTML元素还是react 组件的原则就是看第一个字母是否大写。
+
+类似于react中创建dom的语法糖

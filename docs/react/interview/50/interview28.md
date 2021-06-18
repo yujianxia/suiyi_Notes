@@ -1,0 +1,4 @@
+- 自己使用 import 和 async/await 实现的异步组件
+- [React.lazy](https://reactjs.org/docs/code-splitting.html#reactlazy)
+- 开源库 react-loadable 库/react-lazyload 库
+- babel 动态导入（Dynamic Import）

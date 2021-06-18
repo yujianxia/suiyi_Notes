@@ -1,0 +1,20 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "author": "sy",
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "@vuepress/shared-utils": "^1.8.2",
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "start": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6"
+  }
+}
